@@ -8,11 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native,Flutter**
+- 🔭 I’m currently working **as a Freelancer**
+
+- 🌱 I’m currently learning **as a Information Technology at SLIIT**
+
+- 👯 I’m looking to collaborate on **new Tech projects**
+
+- 🤝 I’m looking for help with **my Technological skill**
 
 - 📫 How to reach me **tharishan75@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Love Photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
